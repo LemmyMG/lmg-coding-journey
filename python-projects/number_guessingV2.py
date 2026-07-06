@@ -1,5 +1,4 @@
-secret_number = 4
-
+secret_number = 9
 guess_number = 0
 
 while guess_number != secret_number:
