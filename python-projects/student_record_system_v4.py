@@ -1,6 +1,7 @@
 
+print("\n---------Student Record System---------")
+
 for student in range(3):
-    print("\n---------Student Record System---------")
     print("\n====== Entering Student", student + 1, "======")
 
     student_name = input("Enter Student Name: ")
